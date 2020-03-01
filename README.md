@@ -23,3 +23,24 @@
 
 * 在复杂软件工程分析-软件工程类的方向进行调研,多语言编写的module的依赖的分析等 袁晓如 陈宝权
 * 静态分析，工具理解可视化
+
+| 会议  | CCF  | CORE | 链接|
+| :------------ |:---------------:| :-----:| :-----:|
+|   CHI    |   A     |        |      |
+|   VAST    |        |        |         |
+|  InfoVis     |        |        |        |
+|  PacificVis      |        |        |        |
+|  ChinaVis     |        |        |        |
+|  VizSEC      |        |        |        |
+|  SciVis     |        |        |        |
+|    GD   |        |        |        |
+|       |        |        |        |
+
+
+| 期刊  | CCF  | CORE | 链接|
+| :------------ |:---------------:| :-----:| :-----:|
+|   TVCG    |   A     |        |      |
+|    TIST   |        |        |         |
+|   journal of visual languages and computing  |        |        |        |
+|   Journal of Visualization |     |      |        |
+|  Journal of Software  |    |     |    |
